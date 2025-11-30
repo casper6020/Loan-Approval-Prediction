@@ -1,5 +1,5 @@
-# Loan-Approval-Prediction
-This repository demonstrates logistic regression model development to predict loan approval probabilities for loan applicants in India.
+## <img src="https://cdn-icons-png.flaticon.com/128/3989/3989573.png" width="20" /> Motivation
+Banks and lenders need to minimize defaults and non-performing loans. Accurate prediction models help identify applicants who are likely to repay, protecting the institution's capital and maintaining portfolio health. Even a small improvement in prediction accuracy can translate to millions in saved losses. 
 
 ## <img src="https://cdn-icons-png.flaticon.com/128/3176/3176324.png" width="20" /> Objectives
 - Data Cleansing
